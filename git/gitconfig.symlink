@@ -1,0 +1,6 @@
+[user]
+name = Yunlei Liu
+email = ipmsteven@github.com
+[alias]
+	co = checkout
+	st = status
