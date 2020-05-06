@@ -4,3 +4,5 @@ email = ipmsteven@github.com
 [alias]
 	co = checkout
 	st = status
+[core]
+  editor = vim
